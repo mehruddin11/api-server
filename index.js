@@ -230,6 +230,6 @@ app.use('/',  (req, res, next)=>{
 });
 
 
-app.listen(3000 , ()=>{
-	console.log("app is litening to port 3000")
-} )
+app.listen(process.env.PORT  || 5000, ()=>{
+    console.log("App is listening to port 5000")
+})
