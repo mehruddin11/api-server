@@ -19,6 +19,7 @@ const Products =[
         "book_image_width": 331,
         "book_image_height": 500,
        "amazon_product_url": "https://www.amazon.com/dp/0735222355?tag=NYTBSREV-20",
+       "featured":true
 	},
 	{
 		id:'2',
@@ -32,6 +33,7 @@ const Products =[
         "book_image_width": 331,
         "book_image_height": 500,
 		"amazon_product_url": "https://www.amazon.com/dp/1538728621?tag=NYTBSREV-20",	
+        "featured":true
 	},
 	{
 		id:"3",
@@ -45,6 +47,7 @@ const Products =[
         "book_image_width": 331,
         "book_image_height": 500,
         "amazon_product_url": "https://www.amazon.com/dp/1982168439?tag=NYTBSREV-20",
+        "featured":true
 
 
 	},
@@ -90,6 +93,7 @@ const Products =[
         "book_image_height": 500,
         "amazon_product_url": "https://www.amazon.com/dp/1984821520?tag=NYTBSREV-20",
         "age_group": "",
+        "featured":true
 	},
 	{
 		id:"7",
@@ -181,6 +185,7 @@ const Products =[
         "book_image_width": 331,
         "book_image_height": 500,
         "amazon_product_url": "https://www.amazon.com/dp/0765387565?tag=NYTBSREV-20",
+        "featured":true
 	},
 	{
 		id:'13',
